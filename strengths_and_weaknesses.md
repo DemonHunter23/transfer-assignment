@@ -1,0 +1,4 @@
+| # Strengths | # Weaknesses |
+|-----------|-----------|
+| Content A | Content B |
+| Content C | Content D |
