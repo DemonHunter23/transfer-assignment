@@ -1,4 +1,4 @@
 | # Strengths | # Weaknesses |
 |-----------|-----------|
-| Content A | Content B |
+| easy way to collab with other people | Content B |
 | Content C | Content D |
